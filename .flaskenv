@@ -1,2 +1,0 @@
-FLASK_APP=Tesla4D
-FLASK_ENV=development
